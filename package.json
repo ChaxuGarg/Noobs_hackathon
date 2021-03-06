@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ChaxuGarg/Noobs_hackathon/issues"
   },
-  "homepage": "https://github.com/ChaxuGarg/Noobs_hackathon#readme"
+  "homepage": "https://github.com/ChaxuGarg/Noobs_hackathon#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "mongoose": "^5.11.19"
+  }
 }
